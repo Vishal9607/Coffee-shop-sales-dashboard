@@ -23,5 +23,5 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 * Which products are the best selling in terms of quantity and revenue?
 
-* How do sales vary by product category and type
+* How do sales vary by product category and type?
 
