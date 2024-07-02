@@ -17,7 +17,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 * What is the total sales revenue for each month?
 
-* How do sales vary across different store locations?
+* How do sales vary across different store locations
 
 * what is the average price/order per person?
 
